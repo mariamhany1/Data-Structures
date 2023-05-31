@@ -1,0 +1,3 @@
+D:/CLionProjects/LastDSAss2/cmake-build-debug/CMakeFiles/LastDSAss2.dir
+D:/CLionProjects/LastDSAss2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CLionProjects/LastDSAss2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
